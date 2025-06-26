@@ -1,4 +1,6 @@
-# yet-another-markdown- README
+# yet another markdown support extension
+
+This extension is a work in progress, the idea is to add extra support on top the [built-in support](https://code.visualstudio.com/docs/languages/markdown).
 
 This is the README for your extension "yet-another-markdown-". After writing up a brief description, we recommend including the following sections.
 
